@@ -1,10 +1,14 @@
 .fancy {
   font-family: "Courier New", Courier, monospace;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .about {
   color: #000099;
 }
+
 .size {
   width: 400px;
+  float: right;
 }
